@@ -1,0 +1,30 @@
+{
+    "country": {
+        "germany": {
+            "name": "Germany",
+            "dataCommissioner": "Mr Prof. Ulrich Kelber",
+            "nationalSupervisoryAuthority": "Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+            "address": "Graurheindorfer Straße 153, 53117 Bonn",
+            "telephone": "(+49) 228 997799 0",
+            "email": "poststelle@bfdi.bund.de",
+            "homepage": "http://www.bfdi.bund.de/",
+            "specificLaw" : "Bundesdatenschutzgesetz",
+            "capital": "Berlin",
+            "population": "83,2 mil",
+            "mostRecentLawCases": ""
+        },
+        "denmark": {
+            "name": "Denmark",
+            "dataCommissioner": "Ms Cristina Angela Gulisano",
+            "nationalSupervisoryAuthority": "",
+            "address": "Carl Jacobsens Vej 35, 2500 Valby",
+            "telephone": "(+45) 33 1932",
+            "email": "dt@datatilsynet.dk",
+            "homepage": "http://www.datatilsynet.dk/",
+            "specificLaw" : "Databeskyttelsesloven",
+            "capital": "Copenhagen",
+            "population": "approx. 5,8 mil",
+            "mostRecentLawCases": ""
+        }
+    }
+}
