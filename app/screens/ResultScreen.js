@@ -9,7 +9,7 @@ class ResultScreen extends React.Component {
 
         return (
             <SafeAreaView style={styles.container}>
-                <Text>Name: {country.name}</Text>
+                <Text>Country: {country.name}</Text>
                 <Text>Data Commissioner: {country.dataCommissioner}</Text>
                 <Text>National Supervisory Authority: {country.nationalSupervisoryAuthority}</Text>
                 <Text>Address: {country.address}</Text>
